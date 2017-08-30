@@ -44,5 +44,7 @@ function bubbleSort(arr){
 ```
 
 - 可视化
-> todo
+> todo / 思考是：每排一次顺序就在页面中显示，然后把最大的添加一个不同的样式
+
+  - 
 [参考资料MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
