@@ -20,6 +20,6 @@
 - `appendChild()` 插入的一定是`Node`节点，从面插入
 - `insertBefore(新节点，参考节点)`：也是插入节点，从前面插入
 
-
+- 从队列里面点击插入的元素删除，除了代码中：遍历所有数据，通过`闭包`删除，还可以用事件代理机制，`event.target`
 
 [参考资料MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
