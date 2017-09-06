@@ -1,6 +1,6 @@
 ## [icessun](https://icessun.github.io/)
 
-### 百度前端学院任务汇总
+### [百度前端学院任务汇总](https://icessun.github.io/IFE2017/ifeindex.html)
 
 #### JS学院
 
