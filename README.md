@@ -5,7 +5,7 @@
 #### JS学院
 
 [JavaScript基础](https://icessun.github.io/IFE2017/javaScript.html)
-
+[图解HTTP](https://icessun.github.io/IFE2017/%E5%9B%BE%E8%A7%A3HTTP.html)
 - 任务一：零基础JavaScript编码（一）
 - 任务二：零基础JavaScript编码（二）
 - 任务三：零基础JavaScript编码（三）
