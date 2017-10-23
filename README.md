@@ -4,9 +4,9 @@
 
 #### JS学院
 
-> [JavaScript基础](https://icessun.github.io/IFE2017/javaScript.html)
-> [图解HTTP](https://icessun.github.io/IFE2017/HTTP.html)
-> [深入理解Javascript原型和闭包](https://icessun.github.io/IFE2017/深入理解Javascript原型和闭包.html)
+> 1. [JavaScript基础](https://icessun.github.io/IFE2017/javaScript.html)
+> 2. [图解HTTP](https://icessun.github.io/IFE2017/HTTP.html)
+> 3. [深入理解Javascript原型和闭包](https://icessun.github.io/IFE2017/深入理解Javascript原型和闭包.html)
 
 
 - 任务一：零基础JavaScript编码（一）
