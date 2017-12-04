@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>canvas test</title>
+    <style>
+        #text{
+            border:1px solid red;
+            background: lightblue;
+        }
+    </style>
+</head>
+<body>
+<canvas id="text" width="600" height="600">你的浏览器不支持canvas属性</canvas>
+<script>
+    var myCanvas=document.getElementById("text");
+    if(myCanvas.getContext){
+        var ctx=myCanvas.getContext("2d");
+//        console.log(ctx);
+    }
+    ctx.beginPath();
+    ctx.arc(60,60,50,0,Math.PI*2,true);
+    ctx.lineWidth = 1.0;
+    ctx.fillStyle="#000";
+    ctx.stroke();
+</script>
+</body>
+</html>
